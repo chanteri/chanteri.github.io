@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chanteri.github.io/sitemap.chanteri.gz
+Sitemap: https://chanteri.github.io/app/sitemap.chanteri.gz
+Sitemap: https://chanteri.github.io/assets/sitemap.chanteri.gz
+Sitemap: https://chanteri.github.io/css/sitemap.chanteri.gz
+Sitemap: https://chanteri.github.io/data/sitemap.chanteri.gz
+Sitemap: https://chanteri.github.io/includes/sitemap.chanteri.gz
+Sitemap: https://chanteri.github.io/item/sitemap.chanteri.gz
+Sitemap: https://chanteri.github.io/src/sitemap.chanteri.gz
